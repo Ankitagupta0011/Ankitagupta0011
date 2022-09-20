@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitagupta0011
+- 👋 Hi, I’m Ankita Gupta
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning css/JSS/Python
 - 💞️ I’m looking to collaborate on Upcoming ML Projects
